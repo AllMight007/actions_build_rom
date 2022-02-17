@@ -42,7 +42,7 @@ on:
          default: 'true'
        dt_branch:
          description: 'Device Trees Branch(Replace branches in json files)'
-         required: false
+         required: true
 
 jobs:
   build:
