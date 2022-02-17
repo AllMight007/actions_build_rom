@@ -16,19 +16,19 @@ on:
        manifest:
          description: 'Manifest'
          required: true
-         default: 'https://github.com/PixelExperience/manifest'
+         default: 'https://github.com/Evolution-X/manifest'
        branch:
          description: 'Branch(Manifest)'
          required: true
-         default: 'twelve'
+         default: 'snow'
        target:
-         description: 'Target(Consistent with tiffany.json file name)'
+         description: 'Target(Consistent with sweet.json file name)'
          required: true
-         default: 'tiffany'
+         default: 'sweet'
        lunch:
          description: 'Lunch(aosp,lineage...)'
          required: true
-         default: 'aosp'
+         default: 'evolution'
        brand:
          description: 'Brand'
          required: true
