@@ -1,0 +1,17 @@
+[
+  {
+    "url":"https://github.com/Evolution-X-Devices/device_xiaomi_sweet.git",
+    "target_path":"kernel/xiaomi/sweet",
+    "branch":"12"
+  },
+  {
+    "url":"https://github.com/Evolution-X-Devices/device_xiaomi_sweet.git",
+    "target_path":"device/xiaomi/sweet",
+    "branch":"snow"
+  },
+  {
+    "url":"https://github.com/Evolution-X-Devices/vendor_xiaomi_sweet.git",
+    "target_path":"vendor/xiaomi/sweet",
+    "branch":"snow"
+  }
+]
